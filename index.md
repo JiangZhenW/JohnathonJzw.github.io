@@ -2,4 +2,5 @@
 #### Name：JiangZhenwei
 #### Education background：Graduate student
 #### School : CQUPT
-#### E-mail : 1515065830@qq.com
+#### E-mail : jiangzw_cqupt@163.com
+#### majior：3D Point Cloud
